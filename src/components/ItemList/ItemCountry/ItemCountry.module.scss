@@ -1,0 +1,29 @@
+.Conteiner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  min-width: 188px;
+  min-height: 188px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.2);
+}
+.IconCountry {
+  position: absolute;
+  top: 0;
+  right: 0;
+  max-width: 64px;
+  max-height: 64px;
+}
+.IconMoney {
+  display: flex;
+  align-items: center;
+  font-family: "Source Sans Pro";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 120px;
+  line-height: 120px;
+  text-align: center;
+
+  color: #ffffff;
+}

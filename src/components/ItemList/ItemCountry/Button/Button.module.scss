@@ -1,0 +1,35 @@
+.Button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-width: 48px;
+  min-height: 48px;
+  background: rgba(255, 255, 255, 0.5);
+  border-radius: 40px;
+  font-family: "Source Sans Pro";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 32px;
+  line-height: 40px;
+  text-align: center;
+  color: #ffffff;
+
+}
+
+.Focus {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-width: 48px;
+  min-height: 48px;
+  border-radius: 40px;
+  font-family: "Source Sans Pro";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 32px;
+  line-height: 40px;
+  text-align: center;
+  background: #ffffff;
+  border: 3px solid #7b61ff;
+  color: #7b61ff;
+}

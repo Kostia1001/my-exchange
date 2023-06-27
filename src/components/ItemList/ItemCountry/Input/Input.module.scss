@@ -1,0 +1,44 @@
+.DefauldFildHead {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: rgba(255, 255, 255, 0.29);
+  border-radius: 20px;
+  border: none;
+  max-width: 845px;
+  max-height: 267px;
+  padding: 30px 60px 30px 0px;
+  margin: 30px;
+  font-family: "Source Sans Pro";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 200px;
+  line-height: 200px;
+  text-align: right;
+  color: #ffffff;
+  outline: none;
+
+  &:focus {
+    border: 10px solid rgba(255, 255, 255, 0.6);
+  }
+}
+.DefauldFildBottom {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 20px;
+  border: none;
+  max-width: 845px;
+  max-height: 267px;
+  padding: 30px 60px 30px 0px;
+  margin: 30px;
+  font-family: "Source Sans Pro";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 200px;
+  line-height: 200px;
+  text-align: right;
+
+  color: #ffffff;
+}
