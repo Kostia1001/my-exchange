@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/my-exchange/static/css/main.901753c9.css",
+    "main.js": "/my-exchange/static/js/main.55e3e8b8.js",
+    "static/media/Country=UK.svg": "/my-exchange/static/media/Country=UK.91922d49a191f804a48aa38c6b544199.svg",
+    "static/media/Country=USA.svg": "/my-exchange/static/media/Country=USA.ad0a4564f3cd368d437924a712ec9c89.svg",
+    "static/media/Country=EU.svg": "/my-exchange/static/media/Country=EU.150dc1d2bb1d485bc2e7d371d7a4f29f.svg",
+    "index.html": "/my-exchange/index.html",
+    "static/media/Country=Poland.svg": "/my-exchange/static/media/Country=Poland.2f3e0f32999474b8d0a22f181bfd8d02.svg",
+    "static/media/Country=Ukraine.svg": "/my-exchange/static/media/Country=Ukraine.60c135f619ee070aa7c7253bdf91c113.svg",
+    "main.901753c9.css.map": "/my-exchange/static/css/main.901753c9.css.map",
+    "main.55e3e8b8.js.map": "/my-exchange/static/js/main.55e3e8b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.901753c9.css",
+    "static/js/main.55e3e8b8.js"
+  ]
+}
